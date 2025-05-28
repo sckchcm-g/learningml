@@ -1,0 +1,5 @@
+This is a sample text file.
+You can add your notes or code here.
+
+- Line 1: Example entry
+- Line 2: Another example
