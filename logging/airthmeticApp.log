@@ -1,0 +1,12 @@
+2025-05-30 13:02:10 - AirthmeticApp - DEBUG - Adding 10 and 15 = 25
+2025-05-30 13:02:10 - AirthmeticApp - DEBUG - Subtracting 5 from 20 = 15
+2025-05-30 13:02:10 - AirthmeticApp - DEBUG - Multiplying 3 and 7 = 21
+2025-05-30 13:02:10 - AirthmeticApp - DEBUG - Dividing 10 by 2 = 5.0
+2025-05-30 13:02:33 - AirthmeticApp - DEBUG - Adding 10 and 15 = 25
+2025-05-30 13:02:33 - AirthmeticApp - DEBUG - Subtracting 5 from 1 = -4
+2025-05-30 13:02:33 - AirthmeticApp - DEBUG - Multiplying 32 and 7 = 224
+2025-05-30 13:02:33 - AirthmeticApp - DEBUG - Dividing 10 by 2 = 5.0
+2025-05-30 13:02:39 - AirthmeticApp - DEBUG - Adding 10 and 15 = 25
+2025-05-30 13:02:39 - AirthmeticApp - DEBUG - Subtracting 5 from 1 = -4
+2025-05-30 13:02:39 - AirthmeticApp - DEBUG - Multiplying 32 and 7 = 224
+2025-05-30 13:02:39 - AirthmeticApp - ERROR - Division by zero error when dividing 10 by 0
